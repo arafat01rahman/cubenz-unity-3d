@@ -1,0 +1,14 @@
+﻿Library/
+Logs/
+Temp/
+.tmp/
+BUILDS/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+.DS_Store
+*.apk
+*.aab
+UserSettings/
