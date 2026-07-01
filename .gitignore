@@ -2,9 +2,12 @@
 Logs/
 Temp/
 .tmp/
+.utmp/
+.vs/
 BUILDS/
 *.csproj
 *.sln
+*.slnx
 *.suo
 *.user
 *.pidb
@@ -12,3 +15,6 @@ BUILDS/
 *.apk
 *.aab
 UserSettings/
+
+Assets/_Recovery/
+Assets/_Recovery.meta
