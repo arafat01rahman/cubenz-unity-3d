@@ -21,7 +21,7 @@ Head to [Releases](../../releases/latest) to download the latest version:
 |----------|--------|-------|
 | PC | Move | WASD / Arrow Keys |
 | PC | Quit | Escape |
-| Android | Move  |
+| Android | Move | Touch|
 
 ## Levels
 | Level | Description |
